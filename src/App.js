@@ -21,7 +21,7 @@ function App() {
         </a>
       </header> */}
       <footer>
-        <p>Made By: Jaspinder Singh</p>
+        <p>Made By: Sreeman</p>
       </footer>
     </div>
   );
